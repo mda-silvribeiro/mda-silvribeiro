@@ -15,4 +15,4 @@
  
 ## Resume
  
- Currently studying software development at 42 Lisboa</br> and in parallel studying Deep Learning and data science at Datacamp.
+ Currently studying software development at 42 Lisboa.
