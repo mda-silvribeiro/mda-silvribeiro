@@ -1,5 +1,5 @@
 ### Hey there! I'm Marinaldo Ribeiro 🙌
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinaldo-r-4771751a7/)
+
 
 ![Ribeiro's Github Stats](https://github-readme-stats.vercel.app/api?username=mda-silvribeiro&show_icons=true&theme=dark)
 
